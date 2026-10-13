@@ -18,10 +18,10 @@ featured:
 
 Pulp 🍊 [site](pulpnotes.com) A gamified note-taking app with AI-powered active recall
 
-Bioscope 🪴 [code](https://github.com/Allghelierce/Bioscope) Turns 432K iNaturalist observations into ecosystem risk insights
+Bioscope 🪴 [demo](https://devpost.com/software/bioscope) Turns 432K iNaturalist observations into ecosystem risk insights
 
-Nialink ⛓️ [code](https://github.com/devhyper/nialink) A Discord bot that semantically indexes data across sources and surfaces insights through AI. 
+Nialink ⛓️ [demo]((https://devpost.com/software/nialink)) A Discord bot that semantically indexes data across sources and surfaces insights through AI. 
 
-Skein 🦅 [code](https://github.com/Allghelierce/Skein) A self-healing drone-swarm mesh with a real-time ML intrusion detector for cyber and jamming attacks.
+Skein 🦅 [demo](https://devpost.com/software/nialink) A self-healing drone-swarm mesh with a real-time ML intrusion detector for cyber and jamming attacks.
 
 
