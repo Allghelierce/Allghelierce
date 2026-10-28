@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Cesar. But I go by Tristan.
+# Hi, I'm Cesar.
 
 featured:
 
