@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 featured:
 
-🍊Pulp [site](pulpnotes.com) A gamified note-taking app with AI-powered active recall
+🍊Pulp [site](https://pulpnotes.com) A gamified note-taking app with AI-powered active recall
 
 🪴Bioscope [demo](https://devpost.com/software/bioscope) Turns 432K iNaturalist observations into ecosystem risk insights
 
